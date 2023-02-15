@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
+title: Research
+nav: true
+nav_order: 1
 dropdown: true
 children: 
-    - title: publications
+    - title: Publications
       permalink: /publications/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Grant
+      permalink: /grant/
 ---
