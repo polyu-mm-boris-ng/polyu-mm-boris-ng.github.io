@@ -2,12 +2,16 @@
 layout: page
 title: FinTech, RegTech, and LegalTech
 permalink: /fintech/
-description: A growing collection of your cool projects.
+description: Overview of FinTech, RegTech, and LegalTech
 nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [fintech, regtech, legaltech]
 horizontal: false
 ---
+
+FinTech, RegTech, and LegalTech are intertwined and serve as the crucial underpinnings of the development of Hong Kong into a global financial center. My research thoroughly investigates various aspects of these three areas and makes efforts to offer implications for academia, industry, and government.
+
+Here I will outline my current focuses and interests. Regarding the FinTech aspect, I am working on (1) understanding how DeFi hacks and exploits affect the development of DeFi platforms and (2) analyzing the FinTech talent growth using social media data with the machine learning approach. Regarding the RegTech aspect, I am working on (1) applying language style migration and speech recognition in improving e-KYC and (2) incorporating federated learning into statistical methods for better policymaking. Regarding the LegalTech aspect, I am working on developing an AI-based Chinese legal document processing tool using machine learning, NLP, and expert-crafted rules. 
 
 <!-- pages/projects.md -->
 <div class="projects">
