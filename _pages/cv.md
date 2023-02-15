@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Biography&CV
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 0
+cv_pdf: CV_Boris.pdf
 ---
