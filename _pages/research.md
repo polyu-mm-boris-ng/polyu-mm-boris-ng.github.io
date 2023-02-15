@@ -8,6 +8,6 @@ children:
     - title: Publications
       permalink: /publications/
     - title: divider
-    - title: Grant
-      permalink: /grant/
+    - title: Students
+      permalink: /students/
 ---

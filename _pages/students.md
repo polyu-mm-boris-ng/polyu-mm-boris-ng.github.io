@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /students/
+title: Studetns
 description: Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 2
 ---
 

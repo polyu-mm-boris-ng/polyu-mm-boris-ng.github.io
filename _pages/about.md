@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Assistant Professor | Presidential Young Scholar | Ph.D. (HKUST)
 
@@ -15,8 +15,8 @@ profile:
     <p>M840, Li Ka Shing Tower</p>
     <p>Hung Hom, Kowloon, Hong Kong</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
