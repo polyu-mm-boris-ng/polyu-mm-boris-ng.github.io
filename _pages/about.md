@@ -15,9 +15,9 @@ profile:
     <p>M840, Li Ka Shing Tower</p>
     <p>Hung Hom, Kowloon, Hong Kong</p>
 
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 Dr. Ka Chung Ng, Boris, is an Assistant Professor - Presidential Young Scholar in the Department of Management and Marketing, Faculty of Business, Hong Kong Polytechnic University. He received his Ph.D. in Information Systems from the Hong Kong University of Science and Technology.
