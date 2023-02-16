@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WANG Zhe (Lionel)
+title: Zhe WANG (Lionel)
 description: PhD in Management Information Systems, 2023 – Present
 img: assets/img/lionel1.jpg
 importance: 1

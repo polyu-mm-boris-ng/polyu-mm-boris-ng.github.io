@@ -16,3 +16,9 @@ Dean’s PhD Fellowship for Research Excellence <float style="display:inline-blo
 Oversea Study Award <float style="display:inline-block; float:right;">2019</float>
 
 Li Po Chun Charitable Trust Fund Scholarship <float style="display:inline-block; float:right;">2017 – 2018</float>
+
+Postgraduate Studentship <float style="display:inline-block; float:right;">2016 – 2021</float>
+
+Dean’s List <float style="display:inline-block; float:right;">2016</float>
+
+University Scholarship <float style="display:inline-block; float:right;">2012</float>

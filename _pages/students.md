@@ -5,9 +5,11 @@ title: Students
 description: Students under supervison
 nav: false
 nav_order: 2
-display_categories: [PhD Students, BSc Students, RA]
+display_categories: [Postdoc, PhD Students, BSc Students, Reserch Supervison]
 horizontal: false
 ---
+
+<strong><u>Team Members</u></strong>
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -56,3 +58,38 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+<strong><u>Research Supervision</u></strong><br>
+
+<strong>Research Postgraduate Programme</strong><br>
+• <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
+Ph.D. in Management Information Systems<br>
+Supervisor. 2023 – Present
+
+<strong>Taught Postgraduate Programme</strong><br>
+• Kit Kwan Mak<br>
+MSc in Business Analytics<br>
+Co-supervisor w/ Yue Feng. 2022 – 2023<br>
+Dissertation: <br>
+• The Effect of Contract-based Referral on Post-Campaign Consumption: Empirical Evidence from a Chinese Social Commerce Platform
+
+• Xiaoxiu Fu<br>
+MSc in Business Analytics<br>
+Supervisor. 2022 – Present<br>
+
+<strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
+• Yifeng Wang and Haoxin Wang<br>
+Project Title: Adversarial Attacks on Financial Sentiment Analysis<br>
+Supervisor. 2022 – 2023
+
+• Zhinan Zhang, Yichi Zhang, and Xiaoyu Chen<br>
+Project Title: It Is Money 2.0: A Machine-learning Approach to Predicting Cryptocurrency Price Using Social Media Data<br>
+Supervisor. 2022 – 2023
+
+• Jiayun Pei, Wenhao Li, and Qiuhao Xie<br>
+Project Title: Promoting Green and Socially Responsible Investments in Robo-Advisors: A Natural Language Processing Approach<br>
+Supervisor. 2022 – 2023
+
+• Yaming Jin, Yingkai Hua, Kefan Wu, and Zitong Yue<br>
+Project Title: Understanding the Role of Image and Language in Fake Marketing Information on Consumer Behavior<br>
+Supervisor. 2022 – 2023

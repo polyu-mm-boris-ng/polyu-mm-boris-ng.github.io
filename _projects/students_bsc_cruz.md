@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LIU Yang (Cruz)
+title: Yang LIU (Cruz)
 description: Bsc student in Financial Technology and Artificial Intelligence, 2020 – Present
 img: assets/img/cruz1.jpg
 importance: 1
