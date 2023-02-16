@@ -19,7 +19,7 @@ I have a lot of teaching experience in business analytics and information system
 
 <strong>The Hong Kong Polytechnic University</strong>
 
-Textual Analysis in Business (MM5427) <br>
+<i>Textual Analysis in Business (MM5427)</i> <br>
 • Teaching period: Spring 2023 <br>
 • Teaching responsibilities: Course and Lab Instructor <br>
 • Class size: 19 <br>
@@ -28,7 +28,7 @@ This course covers the concepts and techniques for applying textual analytics in
 
 <br>
 
-Business Forecasting (MM5413) <br>
+<i>Business Forecasting (MM5413)</i> <br>
 • Teaching period: Spring 2022, Spring 2023 <br>
 • Teaching responsibilities: Course and Lab Instructor <br>
 • Class size: 42 (Spring 2022), 46 (Spring 2023) <br>
@@ -40,7 +40,7 @@ This course is developed to introduce both conventional and advanced models in b
 
 <strong>The Hong Kong University of Science and Technology</strong>
 
-Natural Language Processing in Business Using Deep Learning (ISOM4000B) <br>
+<i>Natural Language Processing in Business Using Deep Learning (ISOM4000B)</i> <br>
 • Teaching period: Fall 2021 <br>
 • Teaching responsibilities: Course and Lab Instructor <br>
 • Class size: 18 <br>
@@ -50,7 +50,7 @@ This course covers the concepts and techniques for applying natural language pro
 
 <br>
 
-Data Mining for Business Analytics (ISOM3360) <br>
+<i>Data Mining for Business Analytics (ISOM3360)</i> <br>
 • Teaching period: Summer 2020 <br>
 • Teaching responsibilities: Course and Lab Instructor <br>
 • Class size: 21 <br>
@@ -60,7 +60,7 @@ This course covers the fundamental concepts, technologies, and applications of b
 
 <br>
 
-Big Data Analytics (ISOM5270) <br>
+<i>Big Data Analytics (ISOM5270)</i> <br>
 • Teaching period: Fall 2019 <br>
 • Teaching responsibilities: Teaching Assistant <br>
 • Class size: 68 <br>
@@ -69,7 +69,7 @@ This course introduces the key concepts and applications of business analytics i
 
 <br>
 
-Introduction to Information Systems (ISOM2010) <br>
+<i>Introduction to Information Systems (ISOM2010)</i> <br>
 • Teaching period: Fall 2016 – Fall 2019 <br>
 • Teaching responsibilities: Lab Instructor <br>
 • Class size: ~56 <br>

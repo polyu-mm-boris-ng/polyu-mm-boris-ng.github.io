@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FinTech/RegTech/LegalTech
+title: FinTech | RegTech | LegalTech | Others
 description: 
-img:
+img: assets/img/fintech.jpg
 importance: 1
-category: FinTech/RegTech/LegalTech
+category: My Research Projects
 ---
 
 FinTech, RegTech, and LegalTech are intertwined and serve as the crucial underpinnings of the development of Hong Kong into a global financial center. My research thoroughly investigates various aspects of these three areas and makes efforts to offer implications for academia, industry, and government.
@@ -13,7 +13,7 @@ Here I will outline my current focuses and interests. Regarding the FinTech aspe
 
 Related publications:
 
-•   Ke, P. F., and Ng, K. C. 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> ICIS 2022 Proceedings. 12. <br>
+•   Ke, P. F., and Ng, K. C. 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12. <br>
 •   Ng, K. C., So, M. K. P., and Tam, K. Y. 2021. <a href="https://dl.acm.org/doi/10.1145/3424240">“A Latent Space Modeling Approach to Interfirm Relationship Analysis,”</a> ACM Transactions on Management Information Systems (12:2), 10. <br>
-•   Zhou, J., and Ng, K. C. 2020. <a href="https://aisel.aisnet.org/icis2020/social_media/social_media/3">“Online Media Causes Biased Stock Investment: Evidence from a Regression-Discontinuity Design,”</a> ICIS 2020 Proceedings. 3. 
+•   Zhou, J., and Ng, K. C. 2020. <a href="https://aisel.aisnet.org/icis2020/social_media/social_media/3">“Online Media Causes Biased Stock Investment: Evidence from a Regression-Discontinuity Design,”</a> <i>ICIS 2020 Proceedings.</i> 3. 
 

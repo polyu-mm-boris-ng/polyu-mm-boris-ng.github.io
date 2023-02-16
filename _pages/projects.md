@@ -5,7 +5,7 @@ title: Projects
 nav: true
 description: My research projects
 nav_order: 0
-display_categories: [FinTech/RegTech/LegalTech, Strategic Manipulation in Machine Learning, Computerized Textual Analysis of Fake News, Behavioral Aspects of Cybersecurity]
+display_categories: [My Research Projects]
 horizontal: false
 ---
 

@@ -16,7 +16,7 @@ nav_order: 4
 <strong>Funding Body:</strong> PolyU (UGC) <br>
 <strong>Awarded Funding:</strong> 2,145,400 (HKD) <br>
 
-<strong>Project Abstract:</strong>
+<i>Project Abstract:</i>
 
 Deceptive information captures increasing attention worldwide and severely impacts our society, especially during serious social, political, and epidemiological crises, such as the COVID-19 pandemic of 2020. More importantly, the spread of deceptive information on social media will severely hinder the promotion of equity, diversity, and inclusion (EDI). For instance, diversity is prohibited as fake content and misinformation facilitates the tendency for people to believe a piece of news that confirms their prior beliefs (Kim and Dennis 2019, Kim et al. 2019) or to only engage with like-minded people that polarizes the society (Del Vicario et al. 2016). Equity is harmed by harassment and sexual taunts that intensify gender bias and the hate speeches and discriminating messages that promote racist and hate crimes. Inclusion is lost when fake news fuels society with distrust, fear, and extreme emotions that discourage free speech and expression.
 
@@ -29,5 +29,5 @@ The second part of this project will study how social media contribute to Fin Te
 <strong>Related publications:</strong>
 
 •	Ke, P. F., and Ng, K. C. 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12
-">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> ICIS 2022 Proceedings. 12. 
+">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12. 
 
