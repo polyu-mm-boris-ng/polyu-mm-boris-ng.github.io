@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: Students
       permalink: /students/
+    - title: divider
+    - title: Grants
+      permalink: /grants/
 ---

@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: Honors and Awards
       permalink: /honors/
+    - title: divider
+    - title: Repositories
+      permalink: /repositories/
 ---

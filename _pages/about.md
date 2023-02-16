@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Management and Marketing</p>
-    <p>PolyU Business School</p>
+    <p>Faculty of Business</p>
     <p>The Hong Kong Polytechnic University</p>
     <p>M840, Li Ka Shing Tower</p>
     <p>Hung Hom, Kowloon, Hong Kong</p>

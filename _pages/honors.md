@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /honors/
-title: Honors
-description: Materials for courses you taught. Replace this text with your description.
+title: Honors and Awards
+description: My honors and awards.
 nav: false
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Presidential Young Scholar under the Strategic Hiring Scheme <float style="display:inline-block; float:right;">2022 – Present</float>
 
-Organize your courses by years, topics, or universities, however you like!
+Research Productivity Reward Scheme for Non-UTD Journal Publications <float style="display:inline-block; float:right;">2022</float>
+
+Dean’s PhD Fellowship for Research Excellence <float style="display:inline-block; float:right;">2020 – 2021, 2017 – 2018</float>
+
+Oversea Study Award <float style="display:inline-block; float:right;">2019</float>
+
+Li Po Chun Charitable Trust Fund Scholarship <float style="display:inline-block; float:right;">2017 – 2018</float>

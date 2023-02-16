@@ -2,12 +2,14 @@
 layout: page
 title: Computerized Textual Analysis of Fake News
 permalink: /computerized/
-description: A growing collection of your cool projects.
+description: Overview of Computerized Textual Analysis of Fake News
 nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+
+Fake news is capturing attention worldwide and severely impacting our society. Intervention strategies such as labeling to curb the transmission of fake content on social media at scale need to be built on computational models that can assess information content in real time. Other applications, such as robo-advising in FinTech and online product reviews that rely on trustworthy information, also benefit from effective machine learning methods to detect and filter fake content. My research contributes to this area by applying computerized textual analysis to examine three important aspects of fake news: detection method, societal impact, and mitigation strategy.
 
 <!-- pages/projects.md -->
 <div class="projects">
