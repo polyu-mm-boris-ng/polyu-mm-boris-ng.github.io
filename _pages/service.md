@@ -8,7 +8,6 @@ nav_order: 2
 ---
 
 <strong><u>Services to the University, Professional Bodies and the Community</u></strong><br><br>
-
 • Associate Editor, <i>Pacific Asia Conference on Information Systems (PACIS)</i> <float style="display:inline-block; float:right;">2023</float><br>
 • Coordinator, <i>Management Information Systems Speaker Series</i> <float style="display:inline-block; float:right;">2023</float><br>
 • Panel Member, <i>NON-JEE Interviews</i> <float style="display:inline-block; float:right;">2023</float><br>
