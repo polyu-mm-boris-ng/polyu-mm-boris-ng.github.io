@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Zhe WANG (Lionel)
-description: PhD Student in Management Information Systems, 2023 – Present
-img: assets/img/lionel1.jpg
-importance: 1
-category: PhD Students
+description: Ph.D. Student in Management Information Systems, 2023 – Present
+img: assets/img/lionel_p.jpg
+importance: 2
+category: Research Team
 ---
 
 •   I am a final year undergraduate student at The Hong Kong Polytechnic University. (PolyU Class of 2023)<br>

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Yang LIU (Cruz)
-description: Research Student Assistant, 3rd Year Student in Financial Technology and Artificial Intelligence (PolyU)
+description: Research Student Assistant, 3rd Year Undergraduate Student in Fintech & AI (PolyU)
 img: assets/img/cruz1.jpg
-importance: 1
-category: BSc Students
+importance: 3
+category: Research Team
 ---
 
 I am a year 3 undergraduate student at Department of Computing, The Hong Kong Polytechnic University. (PolyU Class of 2024)<br>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching Interests:Management Information Systems, AI Applications in Business, Machine Learning, Text Mining, Business Applications Programming (e.g., Python, R, Java, VBA)
+description: Teaching Interests：Management Information Systems, AI Applications in Business, Machine Learning, Text Mining, Business Applications Programming (e.g., Python, R, Java, VBA)
 nav: true
 nav_order: 2
 

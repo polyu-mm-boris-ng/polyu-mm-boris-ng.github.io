@@ -5,7 +5,7 @@ title: Students
 description: Students under supervison
 nav: false
 nav_order: 2
-display_categories: [Postdoc, PhD Students, BSc Students, Reserch Supervison]
+display_categories: [Research Team, Reserch Supervison]
 horizontal: false
 ---
 
@@ -59,7 +59,7 @@ horizontal: false
 
 <strong>Research Postgraduate Programme</strong><br>
 • <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
-Ph.D. in Management Information Systems<br>
+Ph.D. Student in Management Information Systems<br>
 <i>Supervisor.</i> 2023 – Present
 
 <strong>Taught Postgraduate Programme</strong><br>

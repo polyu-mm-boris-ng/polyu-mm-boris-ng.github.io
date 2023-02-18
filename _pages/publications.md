@@ -9,7 +9,7 @@ nav_order: 1
 
 <strong><u>Journal Publications</u></strong>
 
-•	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959 ">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
+•	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
 <strong>Ka Chung Ng</strong>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>Production and Operations Management.</i> Forthcoming.
 
