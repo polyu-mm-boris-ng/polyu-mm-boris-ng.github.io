@@ -19,7 +19,7 @@ nav_order: 2
 • Panel Member, <i>MPhil Confirmation of Registration</i> <float style="display:inline-block; float:right;">2022 – 2023</float><br>
 • Supervisor, <i>Marketing Capstone Project (MM4942)</i> <float style="display:inline-block; float:right;">2022 – 2023</float>
 
-<br>
+<br><br>
 
 <strong><u>Ad Hoc Reviewer for Major Journals and Conferences</u></strong> <br><br>
 <strong>Journals:</strong> <br><br>
