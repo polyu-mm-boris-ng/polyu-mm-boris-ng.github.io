@@ -24,5 +24,5 @@ nav_order: 2
 <strong><u>Ad Hoc Reviewer for Major Journals and Conferences</u></strong> <br><br>
 <strong>Journals:</strong> <br><br>
 Management Information Systems Quarterly (MISQ),<br>Information Systems Research (ISR),<br> Journal of Management Information Systems (JMIS),<br> Information and Management (I&M),<br> International Journal of Information Management (IJIM),<br> International Journal of Electronic Commerce (IJEC),<br> Journal of Electronic Commerce Research (JECR) <br><br>
-<strong>Conferences:</strong> <br>
+<strong>Conferences:</strong> <br><br>
 Pacific Asia Conference on Information Systems (PACIS),<br> International Conference on Information Systems (ICIS), <br>China Summer Workshop on Information Management (CSWIM),<br> Workshop on Information Technologies and Systems (WITS),<br> Wuhan International Conference on E-business (WHICEB)

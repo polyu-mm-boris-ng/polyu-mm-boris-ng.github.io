@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching Interests：Management Information Systems, AI Applications in Business, Machine Learning, Text Mining, Business Applications Programming (e.g., Python, R, Java, VBA)
+description: My teaching
 nav: true
 nav_order: 2
 
 ---
+
+Teaching Interests: Management Information Systems, AI Applications in Business, Machine Learning, Text Mining, Business Applications Programming (e.g., Python, R, Java, VBA)
 
 Besides being an enthusiastic and methodical researcher, I enjoy teaching and mentoring students, which I perceive as essential for my academic career. Responding to the fast-growing technological development and the challenge of the digital transformation faced by the university, I employ several teaching methods to help undergraduate and graduate students learn efficiently and meaningfully with three associated goals: (1) a thorough understanding of what they learned, (2) enthusiasm for the subject, and (3) strategic communication. 
 
