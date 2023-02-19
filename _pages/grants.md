@@ -2,7 +2,7 @@
 layout: page
 permalink: /grants/
 title: Grants
-description: My Grants
+description: My grants
 nav: false
 nav_order: 4
 ---
