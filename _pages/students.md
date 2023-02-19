@@ -57,12 +57,12 @@ horizontal: false
 {%- endif -%}
 </div>
 
-<strong>Research Postgraduate Programme</strong><br>
+<strong>Research Postgraduate Programme</strong><br><br>
 • <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
 Ph.D. Student in Management Information Systems<br>
 <i>Supervisor.</i> 2023 – Present
 
-<strong>Taught Postgraduate Programme</strong><br>
+<strong>Taught Postgraduate Programme</strong><br><br>
 • Kit Kwan Mak<br>
 MSc in Business Analytics<br>
 <i>Co-supervisor</i> w/ Yue Feng. 2022 – 2023<br>
@@ -73,7 +73,7 @@ Dissertation: <br>
 MSc in Business Analytics<br>
 <i>Supervisor.</i> 2022 – Present<br>
 
-<strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
+<strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br><br>
 • Yifeng Wang and Haoxin Wang<br>
 Project Title: Adversarial Attacks on Financial Sentiment Analysis<br>
 <i>Supervisor.</i> 2022 – 2023
