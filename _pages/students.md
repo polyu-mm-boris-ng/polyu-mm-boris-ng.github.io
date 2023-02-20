@@ -5,7 +5,7 @@ title: Students
 description: Students under supervison
 nav: false
 nav_order: 2
-display_categories: [Research Team, Reserch Supervison]
+display_categories: [Research Team, Research Supervison]
 horizontal: false
 ---
 

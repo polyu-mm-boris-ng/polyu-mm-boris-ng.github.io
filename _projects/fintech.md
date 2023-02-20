@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FinTech | RegTech | LegalTech |
+title: FinTech | RegTech | LegalTech
 description: 
 img: assets/img/fintech.jpg
 importance: 1

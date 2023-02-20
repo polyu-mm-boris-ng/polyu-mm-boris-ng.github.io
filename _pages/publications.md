@@ -47,7 +47,8 @@ Jiali Zhou and <strong>Ka Chung Ng</strong><br>
 <i>ICIS 2020 Proceedings.</i> 2020.
 <br><br>
 •	<a href="https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/13">Reposts Influencing the Effectiveness of Social Reporting System: An Empirical Study from Sina Weibo</a><br>
-Tang Jie and <strong>Ka Chung Ng</strong>
+Tang Jie and <strong>Ka Chung Ng</strong><br>
+<i>ICIS 2019 Proceedings.</i> 2019.
 
 
 
@@ -85,7 +86,7 @@ Tang Jie and <strong>Ka Chung Ng</strong>
 
 <h2 class="category">{{ page.display_categories[3]}}</h2>
 
-<strong>Working Papers</strong><br>
+<strong>Working Papers</strong><br><br>
 •	Analyzing Word Sentiment Evolution in Financial Text: A Word Embedding Approach <br>
 w/ Jiexin Zheng, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> Under 1st Round Major Revision.
@@ -99,7 +100,7 @@ w/ Jiexin Zheng and Rong Zheng<br>
 <i>Management Science.</i> Under 1st Round Review.
 
 <br><br><br>
-<strong>Works In Progress</strong><br>
+<strong>Works In Progress</strong><br><br>
 •	Robo-Advisor, Financial Inclusion, and Human-Robo Interaction<br>
 w/ Weiyin Hong and Kar Yan Tam
 <br><br>
@@ -115,11 +116,6 @@ w/ Mike K. P. So and Kar Yan Tam
 •	Strategic Behaviors, Financial News, and Market Reaction<br>
 w/ Kar Yan Tam and Cui Jie
 
-
-
-
-
-<i>ICIS 2019 Proceedings.</i> 2019.
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
