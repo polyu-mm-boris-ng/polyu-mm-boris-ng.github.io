@@ -5,7 +5,7 @@ title: Service
 description: My academic service
 nav: false
 nav_order: 2
-display_categories: [Services to the University、 Professional Bodies and the Community, Ad Hoc Reviewer for Major Journals and Conferences]
+display_categories: [Services to the University/Community, Ad Hoc Reviewer]
 horizontal: false
 ---
 
