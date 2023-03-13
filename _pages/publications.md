@@ -16,14 +16,15 @@ horizontal: false
   <h2 class="category">{{ page.display_categories[0]}}</h2>
 •	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
 <strong>Ka Chung Ng</strong>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
-<i>Production and Operations Management.</i> Forthcoming.
+<i>Production and Operations Management.</i> Forthcoming.<br><br>
+[Github] <a href="">Adversarial Domain Adaptation for Fake Content</a> (incoming)
 <br><br>
 •	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination</a><br>
 <strong>Ka Chung Ng</strong>, Tang Jie, and Dongwon Lee<br>
-<i>Journal of Management Information Systems.</i> 2021. <br>
+<i>Journal of Management Information Systems.</i> 2021. <br><br>
 Media Coverage: 
-•	<a href="https://dbr.donga.com/article/view/1202/article_no/10562/ac/magazine">Dong-A Business Review</a> (Sep 2022, Issue 1, No. 352)
-•	<a href="https://www.donga.com/news/Economy/article/all/20220913/115435247/1">Dong-A ILBO</a> (Sep 14, 2022)
+<a href="https://dbr.donga.com/article/view/1202/article_no/10562/ac/magazine">Dong-A Business Review</a> (Sep 2022, Issue 1, No. 352),
+<a href="https://www.donga.com/news/Economy/article/all/20220913/115435247/1">Dong-A ILBO</a> (Sep 14, 2022)
 <br><br>
 •	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1962601">Protecting Against Threats to Information Security: An Attitudinal Ambivalence Perspective</a><br>
 <strong>Ka Chung Ng</strong>, Xiaojun Zhang, James Y. L. Thong, and Kar Yan Tam<br>

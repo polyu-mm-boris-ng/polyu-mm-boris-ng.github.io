@@ -7,6 +7,8 @@ nav: false
 nav_order: 2
 ---
 
+Beta Gamma Sigma Member <float style="display:inline-block; float:right;">2023 – Present</float>
+
 Presidential Young Scholar under the Strategic Hiring Scheme <float style="display:inline-block; float:right;">2022 – Present</float>
 
 Research Productivity Reward Scheme for Non-UTD Journal Publications <float style="display:inline-block; float:right;">2022</float>
