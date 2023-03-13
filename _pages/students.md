@@ -59,7 +59,7 @@ horizontal: false
 
 <strong>Research Postgraduate Programme</strong><br><br>
 • <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
-Ph.D. Student in Management Information Systems<br>
+MPhil - Ph.D. Student in Management Information Systems<br>
 <i>Supervisor.</i> 2023 – Present
 
 <strong>Taught Postgraduate Programme</strong><br><br>

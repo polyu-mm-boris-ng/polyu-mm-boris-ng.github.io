@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhe WANG (Lionel)
-description: Ph.D. Student in Management Information Systems, 2023 – Present
+description: MPhil - Ph.D. Student in Management Information Systems, 2023 – Present
 img: assets/img/lionel_p.jpg
 importance: 2
 category: Research Team
@@ -12,11 +12,9 @@ category: Research Team
 •   My major is Financial Technology and Artificial Intelligence, while my minor is Applied Mathematics.<br>
 •   This is my personal homepage: <a href="https://zhe-wang0018.github.io/">Lionel</a> <br>
 
-I will join Dr. Boris NG's group to study my PhD in Management Information Systems, my research interests mainly lies on Deep Learning, Machine learning, Natural Language Processing, etc.
+I will join Dr. Boris NG's group to study my MPhil - Ph.D. in Management Information Systems, my research interests mainly lies on Deep Learning, Machine learning, Natural Language Processing, etc.
 
 I love soccer ⚽ , and movie 🎥 . 
-
-I create the Application Guide (<i>香港理工大学飞跃手册</i>) of 61431-FFT students at PolyU, please wait for the complete version!
 
 
 <div class="row">
