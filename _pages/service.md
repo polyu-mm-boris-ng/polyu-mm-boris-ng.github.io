@@ -26,9 +26,9 @@ horizontal: false
 
 <h2 class="category">{{ page.display_categories[1]}}</h2>
 <strong>Journals:</strong> <br><br>
-Management Information Systems Quarterly (MISQ)<br>Information Systems Research (ISR)<br> Journal of Management Information Systems (JMIS)<br> Information and Management (I&M)<br> International Journal of Information Management (IJIM)<br> International Journal of Electronic Commerce (IJEC)<br> Journal of Electronic Commerce Research (JECR)<br><br>
+• Management Information Systems Quarterly (MISQ)<br>• Information Systems Research (ISR)<br>• Journal of Management Information Systems (JMIS)<br> • Information and Management (I&M)<br>• International Journal of Information Management (IJIM)<br>• International Journal of Electronic Commerce (IJEC)<br> • Journal of Electronic Commerce Research (JECR)<br><br>
 <strong>Conferences:</strong> <br><br>
-Pacific Asia Conference on Information Systems (PACIS)<br> International Conference on Information Systems (ICIS)<br>China Summer Workshop on Information Management (CSWIM)<br> Workshop on Information Technologies and Systems (WITS)<br> Wuhan International Conference on E-business (WHICEB)
+• Pacific Asia Conference on Information Systems (PACIS)<br>• International Conference on Information Systems (ICIS)<br>• China Summer Workshop on Information Management (CSWIM)<br>• Workshop on Information Technologies and Systems (WITS)<br>• Wuhan International Conference on E-business (WHICEB)
 
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}

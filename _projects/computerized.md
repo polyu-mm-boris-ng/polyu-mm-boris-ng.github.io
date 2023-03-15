@@ -12,6 +12,10 @@ Fake news is capturing attention worldwide and severely impacting our society. I
 <br>
 <strong>Related publications:</strong>
 
-•   Ng, K. C., Ke, P. F., So, M. K. P., and Tam, K. Y. 2023. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">“Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach,”</a> <i>Production and Operations Management.</i> Forthcoming.<br>
-•   Ng, K. C., Tang, J., and Lee, D. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">“The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination,”</a> <i>Journal of Management Information Systems</i> (38:4), pp. 898–930.<br>
-•   Tang, J., and Ng, K. C. 2019. <a href="https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/13">“Reposts Influencing the Effectiveness of Social Reporting System: An Empirical Study from Sina Weibo,”</a> <i>ICIS 2019 Proceedings.</i> 13. 
+•   Ng, K. C., Ke, P. F., So, M. K. P., and Tam, K. Y. 2023. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">“Augmenting Fake Content Detection in Online Platforms: </a><br>
+&nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">A Domain Adaptive Transfer Learning via Adversarial Training Approach,”</a> <i>Production and Operations <br>
+&nbsp; Management.</i> Forthcoming.<br>
+•   Ng, K. C., Tang, J., and Lee, D. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">“The Effect of Platform Intervention Policies on Fake News Dissemination </a><br>
+&nbsp; <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">and Survival: An Empirical Examination,”</a> <i>Journal of Management Information Systems</i> (38:4), pp. 898–930.<br>
+•   Tang, J., and Ng, K. C. 2019. <a href="https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/13">“Reposts Influencing the Effectiveness of Social Reporting System: An Empirical </a><br>
+&nbsp; <a href="https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/13">Study from Sina Weibo,”</a> <i>ICIS 2019 Proceedings.</i> 13. 
