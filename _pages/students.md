@@ -67,7 +67,7 @@ MPhil - Ph.D. Student in Management Information Systems<br>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Kit Kwan Mak<br>
 MSc in Business Analytics<br>
 <i>Co-supervisor</i> w/ Yue Feng. 2022 – 2023<br>
-Dissertation: The Effect of Contract-based Referral on Post-Campaign Consumption: Empirical Evidence from a Chinese Social Commerce Platform</p>
+<strong>Dissertation:</strong> The Effect of Contract-based Referral on Post-Campaign Consumption: Empirical Evidence from a Chinese Social Commerce Platform</p>
 
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Xiaoxiu Fu<br>
@@ -78,16 +78,16 @@ MSc in Business Analytics<br>
 <strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Yifeng Wang and Haoxin Wang<br>
 <i>Supervisor.</i> 2022 – 2023<br>
-Project Title: Adversarial Attacks on Financial Sentiment Analysis</p>
+<strong>Project Title:</strong> Adversarial Attacks on Financial Sentiment Analysis</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Zhinan Zhang, Yichi Zhang, and Xiaoyu Chen<br>
 <i>Supervisor.</i> 2022 – 2023<br>
-Project Title: It Is Money 2.0: A Machine-learning Approach to Predicting Cryptocurrency Price Using Social Media Data</p>
+<strong>Project Title:</strong> It Is Money 2.0: A Machine-learning Approach to Predicting Cryptocurrency Price Using Social Media Data</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Jiayun Pei, Wenhao Li, and Qiuhao Xie<br>
 <i>Supervisor.</i> 2022 – 2023<br>
-Project Title: Promoting Green and Socially Responsible Investments in Robo-Advisors: A Natural Language Processing Approach</p>
+<strong>Project Title:</strong> Promoting Green and Socially Responsible Investments in Robo-Advisors: A Natural Language Processing Approach</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Yaming Jin, Yingkai Hua, Kefan Wu, and Zitong Yue<br>
 <i>Supervisor.</i> 2022 – 2023<br>
-Project Title: Understanding the Role of Image and Language in Fake Marketing Information on Consumer Behavior</p>
+<strong>Project Title:</strong> Understanding the Role of Image and Language in Fake Marketing Information on Consumer Behavior</p>

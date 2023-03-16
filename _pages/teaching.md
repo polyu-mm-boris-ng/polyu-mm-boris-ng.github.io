@@ -71,19 +71,19 @@ I have a lot of teaching experience in business analytics and information system
 <strong>The Hong Kong Polytechnic University</strong>
 
 <i>Textual Analysis in Business (MM5427)</i> <br>
-• Teaching period: Spring 2023 <br>
-• Teaching responsibilities: Course and Lab Instructor <br>
-• Class size: 19 <br>
+<strong>• Teaching period:</strong> Spring 2023 <br>
+<strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
+<strong>• Class size:</strong> 19 <br>
 
 This course covers the concepts and techniques for applying textual analytics in processing unstructured text data in the business domain. Python programming language will be the primary implementation tool for data analysis and model development. An extended lab session intends to train students with good knowledge and skills for solving practical problems, such as sentiment analysis, document classification, word embedding, and topic modeling.
 
 <br>
 
 <i>Business Forecasting (MM5413)</i> <br>
-• Teaching period: Spring 2022, Spring 2023 <br>
-• Teaching responsibilities: Course and Lab Instructor <br>
-• Class size: 42 (Spring 2022), 46 (Spring 2023) <br>
-• Instructor Evaluation: 4.4/5 (Spring 2022) <br>
+<strong>• Teaching period:</strong> Spring 2022, Spring 2023 <br>
+<strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
+<strong>• Class size:</strong> 42 (Spring 2022), 46 (Spring 2023) <br>
+<strong>• Instructor Evaluation:</strong> 4.4/5 (Spring 2022) <br>
 
 This course is developed to introduce both conventional and advanced models in business forecasting, with a specific focus on the application of deep learning. This course includes lectures (×10) and lab sessions (×4) intended to train students with good knowledge and skills to solve practical problems. Python programming language will be the primary tool for data analysis and model development.
 
@@ -92,38 +92,38 @@ This course is developed to introduce both conventional and advanced models in b
 <strong>The Hong Kong University of Science and Technology</strong>
 
 <i>Natural Language Processing in Business Using Deep Learning (ISOM4000B)</i> <br>
-• Teaching period: Fall 2021 <br>
-• Teaching responsibilities: Course and Lab Instructor <br>
-• Class size: 18 <br>
-• Instructor Evaluation: 4.8/5 <br>
+<strong>• Teaching period:</strong> Fall 2021 <br>
+<strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
+<strong>• Class size:</strong> 18 <br>
+<strong>• Instructor Evaluation:</strong> 4.8/5 <br>
 
 This course covers the concepts and techniques for applying natural language processing and deep learning in processing text data in the business domain. Python programming language is the primary implementation tool for data analysis and model development. An extended lab session intends to train students with good knowledge and skills for solving practical problems, such as document classification, word embedding, topic modeling, and financial news analysis.
 
 <br>
 
 <i>Data Mining for Business Analytics (ISOM3360)</i> <br>
-• Teaching period: Summer 2020 <br>
-• Teaching responsibilities: Course and Lab Instructor <br>
-• Class size: 21 <br>
-• Instructor Evaluation: 87.5/100 <br>
+<strong>• Teaching period:</strong> Summer 2020 <br>
+<strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
+<strong>• Class size:</strong> 21 <br>
+<strong>• Instructor Evaluation:</strong> 87.5/100 <br>
 
 This course covers the fundamental concepts, technologies, and applications of business analytics to help firms gain a competitive advantage in the era of Big Data. Topics include text mining, predictive analytics, search engine strategy, social network analysis, cloud computing, etc. Students will gain hands-on experience with popular data analytical tools.
 
 <br>
 
 <i>Big Data Analytics (ISOM5270)</i> <br>
-• Teaching period: Fall 2019 <br>
-• Teaching responsibilities: Teaching Assistant <br>
-• Class size: 68 <br>
+<strong>• Teaching period:</strong> Fall 2019 <br>
+<strong>• Teaching responsibilities:</strong> Teaching Assistant <br>
+<strong>• Class size:</strong> 68 <br>
 
 This course introduces the key concepts and applications of business analytics in the world of Big Data. Examples of business problems to be solved analytically include customer relationship management, financial trading, social media marketing, search engine strategy, etc. Hands-on experience with popular data analytical tools is included.
 
 <br>
 
 <i>Introduction to Information Systems (ISOM2010)</i> <br>
-• Teaching period: Fall 2016 – Fall 2019 <br>
-• Teaching responsibilities: Lab Instructor <br>
-• Class size: ~56 <br>
+<strong>• Teaching period:</strong> Fall 2016 – Fall 2019 <br>
+<strong>• Teaching responsibilities:</strong> Lab Instructor <br>
+<strong>• Class size:</strong> ~56 <br>
 
 This course introduces Information Systems (IS), which is about managing the applications of IT to create business values. Topics include fundamental concepts of IS, e-commerce, digital and the Internet economy, Web 2.0 and social networks, online advertising, personalization and privacy, digital rights management and piracy, business intelligence and decision-making, how organizations harness IS for innovative business strategies, and the socio-economic impact of IS on organizations and societies. The labs cover business problem-solving skills.
 
