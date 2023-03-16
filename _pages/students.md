@@ -57,39 +57,37 @@ horizontal: false
 {%- endif -%}
 </div>
 
-<strong>Research Postgraduate Programme</strong><br><br>
-• <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
-&nbsp; MPhil - Ph.D. Student in Management Information Systems<br>
-&nbsp; <i>Supervisor.</i> 2023 – Present
+<strong>Research Postgraduate Programme</strong><br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
+MPhil - Ph.D. Student in Management Information Systems<br>
+<i>Supervisor.</i> 2023 – Present</p>
+<br>
 
-<strong>Taught Postgraduate Programme</strong><br><br>
-• Kit Kwan Mak<br>
-&nbsp; MSc in Business Analytics<br>
-&nbsp; <i>Co-supervisor</i> w/ Yue Feng. 2022 – 2023<br>
-&nbsp; Dissertation: <br>
-• The Effect of Contract-based Referral on Post-Campaign Consumption: Empirical Evidence from a Chinese &nbsp; Social Commerce Platform
+<strong>Taught Postgraduate Programme</strong><br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Kit Kwan Mak<br>
+MSc in Business Analytics<br>
+<i>Co-supervisor</i> w/ Yue Feng. 2022 – 2023<br>
+Dissertation: The Effect of Contract-based Referral on Post-Campaign Consumption: Empirical Evidence from a Chinese Social Commerce Platform</p>
 
-• Xiaoxiu Fu<br>
-&nbsp; MSc in Business Analytics<br>
-&nbsp; <i>Supervisor.</i> 2022 – Present<br>
 
-<strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br><br>
-• Yifeng Wang and Haoxin Wang<br>
-&nbsp; <i>Supervisor.</i> 2022 – 2023<br>
-&nbsp; Project Title: <br>
-• Adversarial Attacks on Financial Sentiment Analysis
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Xiaoxiu Fu<br>
+MSc in Business Analytics<br>
+<i>Supervisor.</i> 2022 – Present</p>
+<br>
 
-• Zhinan Zhang, Yichi Zhang, and Xiaoyu Chen<br>
-&nbsp; <i>Supervisor.</i> 2022 – 2023<br>
-&nbsp; Project Title: <br>
-• It Is Money 2.0: A Machine-learning Approach to Predicting Cryptocurrency Price Using Social Media Data
+<strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Yifeng Wang and Haoxin Wang<br>
+<i>Supervisor.</i> 2022 – 2023<br>
+Project Title: Adversarial Attacks on Financial Sentiment Analysis</p>
 
-• Jiayun Pei, Wenhao Li, and Qiuhao Xie<br>
-&nbsp; <i>Supervisor.</i> 2022 – 2023<br>
-&nbsp; Project Title: <br>
-• Promoting Green and Socially Responsible Investments in Robo-Advisors: A Natural Language Processing Approach
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Zhinan Zhang, Yichi Zhang, and Xiaoyu Chen<br>
+<i>Supervisor.</i> 2022 – 2023<br>
+Project Title: It Is Money 2.0: A Machine-learning Approach to Predicting Cryptocurrency Price Using Social Media Data</p>
 
-• Yaming Jin, Yingkai Hua, Kefan Wu, and Zitong Yue<br>
-&nbsp; <i>Supervisor.</i> 2022 – 2023<br>
-&nbsp; Project Title: <br>
-• Understanding the Role of Image and Language in Fake Marketing Information on Consumer Behavior
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Jiayun Pei, Wenhao Li, and Qiuhao Xie<br>
+<i>Supervisor.</i> 2022 – 2023<br>
+Project Title: Promoting Green and Socially Responsible Investments in Robo-Advisors: A Natural Language Processing Approach</p>
+
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Yaming Jin, Yingkai Hua, Kefan Wu, and Zitong Yue<br>
+<i>Supervisor.</i> 2022 – 2023<br>
+Project Title: Understanding the Role of Image and Language in Fake Marketing Information on Consumer Behavior</p>
