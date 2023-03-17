@@ -25,7 +25,7 @@ horizontal: false
 
 <strong>Related publications:</strong><br><br>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Ke, P. F., and Ng, K. C. 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12.</p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Ke, P. F., and <u>Ng, K. C.</u> 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12.</p>
 
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}

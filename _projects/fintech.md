@@ -18,13 +18,13 @@ Regarding the LegalTech aspect, I am working on developing an AI-based Chinese l
 <br>
 <strong>Related publications:</strong>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•   Ke, P. F., and Ng, K. C. 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12. <br></p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•   Ke, P. F., and <u>Ng, K. C.</u> 2022. <a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">“Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance,”</a> <i>ICIS 2022 Proceedings.</i> 12. <br></p>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Ng, K. C., Zhang, X., Thong, J. Y. L., and Tam, K. Y. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1962601">“Protecting Against Threats to Information Security: An Attitudinal Ambivalence Perspective,”</a> <i>Journal of Management Information Systems</i> (38:3), pp. 732–764.<br></p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•	<u>Ng, K. C.</u>, Zhang, X., Thong, J. Y. L., and Tam, K. Y. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1962601">“Protecting Against Threats to Information Security: An Attitudinal Ambivalence Perspective,”</a> <i>Journal of Management Information Systems</i> (38:3), pp. 732–764.<br></p>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•   Ng, K. C., So, M. K. P., and Tam, K. Y. 2021. <a href="https://dl.acm.org/doi/10.1145/3424240">“A Latent Space Modeling Approach to Interfirm Relationship Analysis,”</a> <i>ACM Transactions on Management Information Systems</i> (12:2), 10. <br></p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•   <u>Ng, K. C.</u>, So, M. K. P., and Tam, K. Y. 2021. <a href="https://dl.acm.org/doi/10.1145/3424240">“A Latent Space Modeling Approach to Interfirm Relationship Analysis,”</a> <i>ACM Transactions on Management Information Systems</i> (12:2), 10. <br></p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Fintech Research Project. 2021. <a href="https://bm.hkust.edu.hk/en-us/media-resources/overview/publications/reports/issue:6/"><i>Fintech Manpower Development in Asia-Pacific Financial Centers with A Focus on Artificial Intelligence and Big Data Professionals.</i></a> HKUST Business School. <br></p>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•   Zhou, J., and Ng, K. C. 2020. <a href="https://aisel.aisnet.org/icis2020/social_media/social_media/3">“Online Media Causes Biased Stock Investment: Evidence from a Regression-Discontinuity Design,”</a> <i>ICIS 2020 Proceedings.</i> 3. </p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•   Zhou, J., and <u>Ng, K. C.</u> 2020. <a href="https://aisel.aisnet.org/icis2020/social_media/social_media/3">“Online Media Causes Biased Stock Investment: Evidence from a Regression-Discontinuity Design,”</a> <i>ICIS 2020 Proceedings.</i> 3. </p>
 
