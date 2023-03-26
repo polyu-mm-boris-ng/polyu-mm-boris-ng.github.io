@@ -18,7 +18,7 @@ horizontal: false
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
 <u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>Production and Operations Management.</i> Forthcoming.<br><br>
-<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/Adversarial-Domain-Adaptation-for-Fake-Content">Adversarial Domain Adaptation for Fake Content</a> (incoming)</p>
+<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/Adversarial-Domain-Adaptation-for-Fake-Content">Adversarial Domain Adaptation for Fake Content</a></p>
 <br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination</a><br>
