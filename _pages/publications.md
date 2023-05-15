@@ -103,14 +103,14 @@ w/ Jiexin Zheng, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> Under 1st Round Major Revision.</p>
 <br>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Market Reaction to the Perceived Fakeness of Financial News: A Deep Learning Approach <br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Your "Fake" is Different from My "Fake"? Market Reaction to Fake Financial News Identified by Humans, Machines, and Regulators <br>
 w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
-<i>ACM Transactions on Information Systems.</i> Under 1st Round Review.</p>
+<i>Information Systems Research.</i> Under 1st Round Review.</p>
 <br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	A Man with a Machine: Human-AI Augmentation for Sentiment Extraction from Firm Disclosure <br>
 w/ Jiexin Zheng and Rong Zheng<br>
-<i>Management Science.</i> Under 1st Round Review.</p>
+<i>Management Science.</i> Under 1st Round Major Review.</p>
 
 <br><br>
 <strong>Works In Progress</strong><br><br>
