@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: Service
-description: My academic service
+description: 
 nav: false
 nav_order: 2
 display_categories: [Services to the University/Community, Ad Hoc Reviewer]

@@ -2,7 +2,7 @@
 layout: page
 permalink: /grants/
 title: Grants
-description: My grants
+description: 
 nav: false
 nav_order: 4
 display_categories: [Internal Research Grants Secured]

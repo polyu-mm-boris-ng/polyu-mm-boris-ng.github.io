@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: Students
-description: Students under supervison
+description: 
 nav: false
 nav_order: 2
 display_categories: [Research Team, Research Supervison]
@@ -72,7 +72,8 @@ MSc in Business Analytics<br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Xiaoxiu Fu<br>
 MSc in Business Analytics<br>
-<i>Supervisor.</i> 2022 – Present</p>
+<i>Supervisor.</i> 2022 – Present<br>
+<strong>Dissertation:</strong> The Impact of Fake News Engagement on Digital Well-Being During the Pandemic: A Text Analytics Approach</p>
 <br>
 
 <strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
