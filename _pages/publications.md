@@ -130,7 +130,6 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 
 
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}-->
 
 <h2 class="bibtitle">{{ page.display_categories[3]}}</h2>
 
