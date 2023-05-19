@@ -127,7 +127,7 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 
 </div>
 
-
+<br>
 
 <div class="projects">
 
@@ -147,7 +147,7 @@ w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	A Man with a Machine: Human-AI Augmentation for Sentiment Extraction from Firm Disclosure <br>
 w/ Jiexin Zheng and Rong Zheng<br>
-<i>Management Science.</i> Under 1st Round Major Review.</p>
+<i>Management Science.</i> Under 1st Round Major Revision.</p>
 
 <br><br>
 <h2 class="category">{{ page.display_categories[5]}}</h2>

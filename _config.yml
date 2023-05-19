@@ -247,8 +247,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [NG]
-  first_name: [Ka Chung Boris]
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en
