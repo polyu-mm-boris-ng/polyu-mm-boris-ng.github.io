@@ -95,34 +95,34 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 <h2 class="bibtitle">{{ page.display_categories[2]}}</h2>
 <h2 class="year">{{page.years[1]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	A Hybrid Human-AI Approach to Capturing Disclosure Sentiment<br>
-<u>Ka Chung Ng</u>, Jiexin Zheng, and Rong Zheng <br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Jiexin Zheng, and Rong Zheng <br>
 <i>The 32nd Workshop on Information Technologies and Systems (WITS).</i> 2022.</p>
 
 <h2 class="year">{{page.years[2]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Applying Domain Adaptive Transfer Learning in Fake Financial News Analysis<br>
-<u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>The 2021 NSFC-HKUST FinTech Symposium.</i> 2021.</p>
 
 <h2 class="year">{{page.years[3]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Distillation of News Deception into Textual Analysis Using Domain Adaptation Learning<br>
-<u>Ka Chung Ng</u>, Ping Fan Ke, and Kar Yan Tam<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Ping Fan Ke, and Kar Yan Tam<br>
 <i>The INFORMS 2020 Annual Meeting.</i> 2020.</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Inferring Deceptive Cues in Financial News: An Application of Domain Adaptation Learning<br>
-<u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>2020 Pre-AMCIS SIGBPS Workshop on Blockchain and Financial Analytics.</i> 2020.</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Will Fake News Survive Platform Intervention? Examining the Impact of Forwarding Restriction on Fake News Survival <br>
-<u>Ka Chung Ng</u>, Tang Jie, and Dongwon Lee<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Tang Jie, and Dongwon Lee<br>
 <i>The 6th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR).</i> 2020.</p>
 
 <h2 class="year">{{page.years[4]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Financial News Credibility Measurement and Analysis <br>
-<u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>The 11th International Association for Statistical Computing (IASC-ARS) 2019 Conference.</i> 2019.</p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Interfirm Relationship Analysis for Dynamic and Dual-View Company Networks: A Latent Space Modeling Approach<br>
-<u>Ka Chung Ng</u>, Mike K. P. So, and Kar Yan Tam<br>
+<a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Mike K. P. So, and Kar Yan Tam<br>
 <i>The 3rd International Conference on Econometrics and Statistics (EcoSta).</i> 2019.</p>
 
 </div>
@@ -132,8 +132,8 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 <div class="projects">
 
 <h2 class="bibtitle">{{ page.display_categories[3]}}</h2>
-
-<h2 class="category">{{ page.display_categories[4]}}</h2>
+<br>
+<!--<h2 class="category">{{ page.display_categories[6]}}</h2>-->
 <!--<strong>Working Papers</strong><br><br>-->
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Analyzing Word Sentiment Evolution in Financial Text: A Word Embedding Approach <br>
 w/ Jiexin Zheng, Rong Zheng, and Kar Yan Tam<br>
@@ -149,9 +149,8 @@ w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 w/ Jiexin Zheng and Rong Zheng<br>
 <i>Management Science.</i> Under 1st Round Major Revision.</p>
 
-<br><br>
+<!--<br><br>
 <h2 class="category">{{ page.display_categories[5]}}</h2>
-<!--<strong>Works In Progress</strong><br><br>-->
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Robo-Advisor, Financial Inclusion, and Human-Robo Interaction<br>
 w/ Weiyin Hong and Kar Yan Tam</p>
 <br>
@@ -169,7 +168,7 @@ w/ Mike K. P. So and Kar Yan Tam</p>
 <br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Strategic Behaviors, Financial News, and Market Reaction<br>
-w/ Kar Yan Tam and Cui Jie</p>
+w/ Kar Yan Tam and Cui Jie</p>-->
 
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
