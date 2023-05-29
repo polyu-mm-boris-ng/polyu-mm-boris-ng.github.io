@@ -74,6 +74,7 @@ I have a lot of teaching experience in business analytics and information system
 <strong>• Teaching period:</strong> Spring 2023 <br>
 <strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
 <strong>• Class size:</strong> 19 <br>
+<strong>• Instructor Evaluation:</strong> 4.5/5 <br>
 
 This course covers the concepts and techniques for applying textual analytics in processing unstructured text data in the business domain. Python programming language will be the primary implementation tool for data analysis and model development. An extended lab session intends to train students with good knowledge and skills for solving practical problems, such as sentiment analysis, document classification, word embedding, and topic modeling.
 
@@ -83,7 +84,7 @@ This course covers the concepts and techniques for applying textual analytics in
 <strong>• Teaching period:</strong> Spring 2022, Spring 2023 <br>
 <strong>• Teaching responsibilities:</strong> Course and Lab Instructor <br>
 <strong>• Class size:</strong> 42 (Spring 2022), 46 (Spring 2023) <br>
-<strong>• Instructor Evaluation:</strong> 4.4/5 (Spring 2022) <br>
+<strong>• Instructor Evaluation:</strong> 4.4/5 (Spring 2022), 4.2/5 (Spring 2023) <br>
 
 This course is developed to introduce both conventional and advanced models in business forecasting, with a specific focus on the application of deep learning. This course includes lectures (×10) and lab sessions (×4) intended to train students with good knowledge and skills to solve practical problems. Python programming language will be the primary tool for data analysis and model development.
 

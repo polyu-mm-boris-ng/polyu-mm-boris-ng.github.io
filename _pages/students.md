@@ -72,7 +72,7 @@ MSc in Business Analytics<br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• Xiaoxiu Fu<br>
 MSc in Business Analytics<br>
-<i>Supervisor.</i> 2022 – Present<br>
+<i>Supervisor.</i> 2022 – 2023<br>
 <strong>Dissertation:</strong> The Impact of Fake News Engagement on Digital Well-Being During the Pandemic: A Text Analytics Approach</p>
 <br>
 
