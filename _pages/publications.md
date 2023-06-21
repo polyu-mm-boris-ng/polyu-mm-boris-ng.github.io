@@ -137,10 +137,10 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 <!--<strong>Working Papers</strong><br><br>-->
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Analyzing Word Sentiment Evolution in Financial Text: A Word Embedding Approach <br>
 w/ Jiexin Zheng, Rong Zheng, and Kar Yan Tam<br>
-<i>Journal of Management Information Systems.</i> Under 1st Round Major Revision.</p>
+<i>Journal of Management Information Systems.</i> Under 2nd Round Review.</p>
 <br>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Your "Fake" is Different from My "Fake"? Market Reaction to Fake Financial News Identified by Humans, Machines, and Regulators <br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">•	Market Reactions to Fake Financial News: Perspectives of Humans, Machines, and Regulators <br>
 w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>Information Systems Research.</i> Under 1st Round Review.</p>
 <br>
