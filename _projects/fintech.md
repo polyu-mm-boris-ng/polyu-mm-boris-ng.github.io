@@ -7,13 +7,26 @@ importance: 1
 category: My Research Projects
 ---
 
-FinTech, RegTech, and LegalTech are intertwined and serve as the crucial underpinnings of the development of Hong Kong into a global financial center. My research thoroughly investigates various aspects of these three areas and makes efforts to offer implications for academia, industry, and government.
+FinTech, RegTech, and LegalTech are deeply intertwined, forming the foundational pillars of Hong Kong’s transformation into a global financial hub. My research undertakes a comprehensive examination of these three fields, with the aim of providing valuable insights for academia, industry, and governmental bodies.
 
-Here I will outline my current focuses and interests. Regarding the FinTech aspect, I am working on (1) advancing the behavioral aspects of cybersecurity, (2) understanding how DeFi hacks and exploits affect the development of DeFi platforms, (3) examining the impact of robo-advisor on investors’ performance and society, and (4) analyzing the FinTech talent growth using social media data with the machine learning approach. 
+Allow me to shed light on my current focal areas and interests.
 
-Regarding the RegTech aspect, I am working on (1) applying language style migration and speech recognition in improving e-KYC and (2) incorporating federated learning into statistical methods for better policymaking. 
+In the FinTech realm, my work revolves around four main themes:
 
-Regarding the LegalTech aspect, I am working on developing an AI-based Chinese legal document processing tool using machine learning, NLP, and expert-crafted rules. 
+1\.	Exploring the behavioral aspects of cybersecurity, <br>
+2\.	Investigating the impact of DeFi hacks and exploits on the evolution of DeFi platforms,<br>
+3\.	Assessing the influence of robo-advisors on investor performance and societal implications, and<br>
+4\.	Utilizing machine learning to analyze FinTech talent growth through social media data.
+
+In the sphere of RegTech, my research is geared towards:
+
+1\.	Enhancing e-KYC procedures through the application of language style migration and speech recognition, and<br>
+2\.	Integrating federated learning into statistical methodologies for more effective policymaking.
+
+Turning to LegalTech, I am currently engaged in the development of an AI-based tool for processing Chinese legal documents. This tool leverages machine learning, natural language processing, and a set of expertly crafted rules to facilitate its functionality. My involvement with this tool led to my participation in the Greater Bay Area (GBA) Startup Postdoc Programme 2022, a program designed to cultivate research-based entrepreneurship. My project received recognition in the form of a HK$120,000 grant from the Micro Fund 2022-23 Cohort 2 and was selected for the Hong Kong Science and Technology Parks (HKSTP) Pre-incubation Programme (IDEATION). Building on this momentum, I took the initiative to establish an academic-led startup named “Legalbotic Technology Limited.”
+
+Through these research endeavors, I am striving to contribute to our understanding and advancement of these critical areas in the context of Hong Kong’s financial ecosystem.
+
 
 <br>
 <strong>Related publications:</strong>

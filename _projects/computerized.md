@@ -7,7 +7,12 @@ importance: 3
 category: My Research Projects
 ---
 
-Fake news is capturing attention worldwide and severely impacting our society. Intervention strategies such as labeling to curb the transmission of fake content on social media at scale need to be built on computational models that can assess information content in real time. Other applications, such as robo-advising in FinTech and online product reviews that rely on trustworthy information, also benefit from effective machine learning methods to detect and filter fake content. My research contributes to this area by applying computerized textual analysis to examine three important aspects of fake news: detection method, societal impact, and mitigation strategy.
+The global proliferation of fake news is commanding widespread attention and exerting a profound impact on our society. To stem the tide of fake content on social media platforms, we need intervention strategies that can operate at scale. These strategies, such as content labeling, must be grounded in computational models capable of evaluating information content in real time.
+
+In addition, other applications like robo-advising in FinTech and online product reviews, which rely on the integrity of information, can greatly benefit from robust machine learning methods designed to detect and filter out fake content.
+
+My research addresses this pressing need by utilizing computerized textual analysis to explore three critical dimensions of fake news: detection methods, societal impacts, and mitigation strategies. Through this research, I hope to offer valuable insights and practical tools to counter the damaging effects of fake news in our increasingly digital world.
+
 
 <br>
 <strong>Related publications:</strong>

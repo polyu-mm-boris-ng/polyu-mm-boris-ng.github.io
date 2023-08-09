@@ -7,12 +7,10 @@ importance: 2
 category: Research Team
 ---
 
-•   I am a final year undergraduate student at The Hong Kong Polytechnic University. (PolyU Class of 2023)<br>
-•   I am studying for a Bachelor of Science degree at Department of Computing, Faculty of Engineering.<br>
-•   My major is Financial Technology and Artificial Intelligence, while my minor is Applied Mathematics.<br>
+•   I am currently a 1st-year MPhil-Ph.D. student working with Dr. Boris NG in Management Information Systems, <br>
+•   My research interests mainly lies on data-driven textual analysis for finance text, visual analysis for management interview by deep learning, and AI application for legaltech, etc.<br>
+•   I got my B.Sc. degree in Financial Technology & Artificial Intelligence at The Hong Kong Polytechnic University with Second Class Honours, Division 1.<br>
 •   This is my personal homepage: <a href="https://zhe-wang0018.github.io/">Lionel</a> <br>
-
-I will join Dr. Boris NG's group to study my MPhil - Ph.D. in Management Information Systems, my research interests mainly lies on Deep Learning, Machine learning, Natural Language Processing, etc.
 
 I love soccer ⚽ , and movie 🎥 . 
 
