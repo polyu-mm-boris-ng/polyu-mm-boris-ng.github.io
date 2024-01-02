@@ -125,16 +125,15 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 <a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Mike K. P. So, and Kar Yan Tam<br>
 <i>The 3rd International Conference on Econometrics and Statistics (EcoSta).</i> 2019.</p>
 
-</div>
 
-<br>
+<!--<br>
 
 <div class="projects">
 
 <h2 class="bibtitle">{{ page.display_categories[3]}}</h2>
 <br>
-<!--<h2 class="category">{{ page.display_categories[6]}}</h2>-->
-<!--<strong>Working Papers</strong><br><br>-->
+<h2 class="category">{{ page.display_categories[6]}}</h2>
+<strong>Working Papers</strong><br><br>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Analyzing Word Sentiment Evolution in Financial Text: A Word Embedding Approach <br>
 w/ Jiexin Zheng, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> Under 2nd Round Review.</p>
@@ -147,7 +146,7 @@ w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	A Man with a Machine: Human-AI Augmentation for Sentiment Extraction from Firm Disclosure <br>
 w/ Jiexin Zheng and Rong Zheng<br>
-<i>Management Science.</i> Under 1st Round Major Revision.</p>
+<i>Management Science.</i> Under 1st Round Major Revision.</p>-->
 
 <!--<br><br>
 <h2 class="category">{{ page.display_categories[5]}}</h2>
