@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Yang LIU (Cruz)
-description: Research Student Assistant, 3rd Year Undergraduate Student in Fintech & AI (PolyU)
+description: Research Student Assistant, 4th Year Undergraduate Student in Fintech & AI (PolyU)
 img: assets/img/cruz1.jpg
-importance: 3
+importance: 4
 category: Research Team
 ---
 

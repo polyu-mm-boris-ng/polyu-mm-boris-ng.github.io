@@ -11,30 +11,51 @@ sections:
 nav: false
 nav_order: 1
 display_categories: [Journal Publications, Conference Papers, Conference Presentations, Research in Progress, Working Papers, Works In Progress]
-years: [2024, 2023, 2022, 2021, 2020, 2019]
+years: [2023, 2022, 2021, 2020, 2019]
 horizontal: false
 ---
 
+<div class="publications">
+{%- for section in page.sections %}
+  <a id="{{section.text}}"></a>
+  <h2 class="bibtitle">{{section.text}}</h2>
+  {%- for y in page.years %}
+
+    {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
+    {%- capture citecount -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
+    {%- endcapture -%}
+
+    {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
+    {%- if citecount !="0" %}
+
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
+
+    {%- endif -%}
+
+  {%- endfor %}
+
+{%- endfor %}
+
+<!--</div>
+
+
+
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
+{%- if site.enable_project_categories and page.display_categories %}-->
 
 <!--pages/projects.md-->
-<!-- Display categorized projects -->
-<h2 class="bibtitle">{{ page.display_categories[0]}}</h2>
 
-<h2 class="category">{{ page.years[0]}}</h2>
-<p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2301176">The Effects of Sentiment Evolution in Financial Texts: A Word Embedding Approach</a><br>
-Jiexin Zheng, <u>Ka Chung Ng</u>, Rong Zheng, and Kar Yan Tam<br>
-<i>Journal of Management Information Systems.</i> 2024.<br><br>
-<strong>[Github]</strong> <a href="">Codes will be released soon.</a></p>
+  <!-- Display categorized projects -->
+<!--<h2 class="bibtitle">{{ page.display_categories[0]}}</h2>
 
-<h2 class="category">{{ page.years[1]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
 <u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
-<i>Production and Operations Management.</i> 2023.<br><br>
+<i>Production and Operations Management.</i> Forthcoming.<br><br>
 <strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/Adversarial-Domain-Adaptation-for-Fake-Content">Adversarial Domain Adaptation for Fake Content</a></p>
+<br>
 
-<h2 class="category">{{ page.years[3]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination</a><br>
 <u>Ka Chung Ng</u>, Tang Jie, and Dongwon Lee<br>
 <i>Journal of Management Information Systems.</i> 2021. <br><br>
@@ -51,28 +72,27 @@ Jiexin Zheng, <u>Ka Chung Ng</u>, Rong Zheng, and Kar Yan Tam<br>
 <u>Ka Chung Ng</u>, Mike K. P. So, and Kar Yan Tam<br>
 <i>ACM Transactions on Management Information Systems.</i> 2021.</p>
 
-<br>
+
 
 <h2 class="bibtitle">{{ page.display_categories[1]}}</h2>
 
-<h2 class="category">{{ page.years[2]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://aisel.aisnet.org/icis2022/blockchain/blockchain/12">Bank Error in Whose Favor? A Case Study of Decentralized Finance Misgovernance</a><br>
 Ping Fan Ke and <u>Ka Chung Ng</u><br>
 <i>ICIS 2022 Proceedings.</i> 2022.</p>
+<br>
 
-<h2 class="category">{{ page.years[4]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://aisel.aisnet.org/icis2020/social_media/social_media/3">Online Media Causes Biased Stock Investment: Evidence from a Regression-Discontinuity Design</a><br>
 Jiali Zhou and <u>Ka Chung Ng</u><br>
 <i>ICIS 2020 Proceedings.</i> 2020.</p>
+<br>
 
-<h2 class="category">{{ page.years[5]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/13">Reposts Influencing the Effectiveness of Social Reporting System: An Empirical Study from Sina Weibo</a><br>
 Tang Jie and <u>Ka Chung Ng</u><br>
-<i>ICIS 2019 Proceedings.</i> 2019.</p>
+<i>ICIS 2019 Proceedings.</i> 2019.</p>-->
 
 
 
-<!-- <h2 class="bibtitle">{{ page.display_categories[2]}}</h2>
+<h2 class="bibtitle">{{ page.display_categories[2]}}</h2>
 <h2 class="year">{{page.years[1]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	A Hybrid Human-AI Approach to Capturing Disclosure Sentiment<br>
 <a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Jiexin Zheng, and Rong Zheng <br>
@@ -103,10 +123,10 @@ Tang Jie and <u>Ka Chung Ng</u><br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Interfirm Relationship Analysis for Dynamic and Dual-View Company Networks: A Latent Space Modeling Approach<br>
 <a href="https://polyu-mm-boris-ng.github.io/"><u>Ka Chung Ng</u></a>, Mike K. P. So, and Kar Yan Tam<br>
-<i>The 3rd International Conference on Econometrics and Statistics (EcoSta).</i> 2019.</p> -->
+<i>The 3rd International Conference on Econometrics and Statistics (EcoSta).</i> 2019.</p>
 
 
-<!-- <br>
+<!--<br>
 
 <div class="projects">
 
@@ -128,7 +148,7 @@ w/ Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 w/ Jiexin Zheng and Rong Zheng<br>
 <i>Management Science.</i> Under 1st Round Major Revision.</p>-->
 
-<!-- <br><br>
+<!--<br><br>
 <h2 class="category">{{ page.display_categories[5]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Robo-Advisor, Financial Inclusion, and Human-Robo Interaction<br>
 w/ Weiyin Hong and Kar Yan Tam</p>
@@ -147,7 +167,7 @@ w/ Mike K. P. So and Kar Yan Tam</p>
 <br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	Strategic Behaviors, Financial News, and Market Reaction<br>
-w/ Kar Yan Tam and Cui Jie</p> -->
+w/ Kar Yan Tam and Cui Jie</p>-->
 
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}

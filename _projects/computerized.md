@@ -18,7 +18,7 @@ My research addresses this pressing need by utilizing computerized textual analy
 <strong>Related publications:</strong>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•   <u>Ng, K. C.</u>, Ke, P. F., So, M. K. P., and Tam, K. Y. 2023. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">“Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach,”</a> <i>Production and Operations <br>
-Management.</i> Forthcoming.<br></p>
+Management.</i> (32:7), pp. 2101–2022.<br></p>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•   <u>Ng, K. C.</u>, Tang, J., and Lee, D. 2021. <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">“The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination,”</a> <i>Journal of Management Information Systems</i> (38:4), pp. 898–930.<br></p>
 

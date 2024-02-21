@@ -16,4 +16,4 @@ This research stream aims to devise strategies that counteract these manipulatio
 <br>
 <strong>Related publications:</strong>
 
-<p style="padding-left: 0.5em; text-indent: -0.5em;">• Zheng, J., <u>Ng, K. C.</u>, Zheng, R., and Tam, K. Y. 2023. <a href="">“The Effects of Sentiment Evolution in Financial Texts: A Word Embedding Approach,”</a> <i>Journal of Management Information Systems.</i> Forthcoming<br></p>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• Zheng, J., <u>Ng, K. C.</u>, Zheng, R., and Tam, K. Y. 2023. <a href="">“The Effects of Sentiment Evolution in Financial Texts: A Word Embedding Approach,”</a> <i>Journal of Management Information Systems.</i> (41:1), pp. 178-205.<br></p>
