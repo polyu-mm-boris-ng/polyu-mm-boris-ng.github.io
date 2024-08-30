@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhoudao LU (Bruce)
-description: Research Student Assistant, 3rd Year Undergraduate Student in Fintech & AI (PolyU)
+description: Research Student Assistant, final Year Undergraduate Student in Fintech & AI (PolyU)
 img: assets/img/bruce.jpg
 importance: 3
 category: Research Team

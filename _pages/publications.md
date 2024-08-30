@@ -26,7 +26,7 @@ horizontal: false
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2301176">The Effects of Sentiment Evolution in Financial Texts: A Word Embedding Approach</a><br>
 Jiexin Zheng, <u>Ka Chung Ng</u>, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> 2024.<br><br>
-<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment">WOLVES-Word-List-Vector-for-Sentiment</a></p>
+<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment">WOLVES - Word List Vector for Sentiment</a></p>
 
 <h2 class="category">{{ page.years[1]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
