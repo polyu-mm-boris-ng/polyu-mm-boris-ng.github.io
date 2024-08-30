@@ -8,11 +8,11 @@ category: Research Team
 ---
 ### Biograpy
 <br>
-•   I am currently a 1st-year MPhil-Ph.D. student working with Dr. Boris NG in Management Information Systems, <br>
+•   I am currently a 2rd-year MPhil-Ph.D. student working with Dr. Boris NG in Management Information Systems, <br>
 •   I got my B.Sc. degree in Financial Technology & Artificial Intelligence at The Hong Kong Polytechnic University with Second Class Honours, Division 1.<br>
 •   This is my personal homepage: <a href="https://zhe-wang0018.github.io/">Lionel</a> <br>
 
----
+<!-- ---
 
 ### Research Interests
 
@@ -52,7 +52,7 @@ The core aim of my research is to leverage real-world multimodal information to 
 
 #### Summary
 
-My research seeks to construct a supportive scaffold for the future of AI, one that is firmly rooted in responsible practices, enriched by diverse data, and guided by a nuanced comprehension of behavioral intricacies.  Through this, I aspire to contribute to the creation of AI systems that are not only intelligent but also equitable, usable, and benevolent.
+My research seeks to construct a supportive scaffold for the future of AI, one that is firmly rooted in responsible practices, enriched by diverse data, and guided by a nuanced comprehension of behavioral intricacies.  Through this, I aspire to contribute to the creation of AI systems that are not only intelligent but also equitable, usable, and benevolent. -->
 
 ---
 ### Hobby

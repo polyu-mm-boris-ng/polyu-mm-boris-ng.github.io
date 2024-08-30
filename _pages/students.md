@@ -5,7 +5,7 @@ title: Students
 description: 
 nav: false
 nav_order: 2
-display_categories: [Research Team, Research Supervison]
+display_categories: [Research Team, Past Research Supervison]
 horizontal: false
 ---
 
@@ -56,11 +56,7 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-<strong>Research Postgraduate Programme</strong><br>
-<p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://zhe-wang0018.github.io/">Zhe Wang</a> <br>
-MPhil - Ph.D. Student in Management Information Systems<br>
-<i>Supervisor.</i> 2023 – Present</p>
+<br>
 <br>
 
 <strong>Taught Postgraduate Programme</strong><br>
@@ -77,7 +73,7 @@ MSc in Business Analytics<br>
 <br>
 
 <strong>Undergraduate Research and Innovation Scheme (URIS)</strong><br>
-<p style="padding-left: 0.5em; text-indent: -0.5em;">• Yifeng Wang and Haoxin Wang<br>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://scholar.google.com/citations?user=uIVORyMAAAAJ&hl=zh-CN">Yifeng Wang</a> and Haoxin Wang<br>
 <i>Supervisor.</i> 2022 – 2023<br>
 <strong>Project Title:</strong> Adversarial Attacks on Financial Sentiment Analysis</p>
 
