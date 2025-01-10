@@ -23,16 +23,23 @@ horizontal: false
 <h2 class="bibtitle">{{ page.display_categories[0]}}</h2>
 
 <h2 class="category">{{ page.years[0]}}</h2>
+<p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2301176">Human-AI Synergy in Survey Development: Implications from Large Language Models in Business and Research</a><br>
+Pingfan Ke, <u>Ka Chung Ng</u><br>
+<i>ACM Transactions on Management Information Systems.</i> 2024.<br><br>
+<strong>Design Artefact: </strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment">
+<u>B</u>ehavioral <u>R</u>esearch <u>ASS</u>istant (BRASS) Bot</a></p>
+<br>
+
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2301176">The Effects of Sentiment Evolution in Financial Texts: A Word Embedding Approach</a><br>
 Jiexin Zheng, <u>Ka Chung Ng</u>, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> 2024.<br><br>
-<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment">WOLVES - Word List Vector for Sentiment</a></p>
+<strong>Github Code:</strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment"><u>WO</u>rd <u>L</u>ist <u>VE</u>ctor for <u>S</u>entiment (WOLVES)</a></p>
 
 <h2 class="category">{{ page.years[1]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13959">Augmenting Fake Content Detection in Online Platforms: A Domain Adaptive Transfer Learning via Adversarial Training Approach</a><br>
 <u>Ka Chung Ng</u>, Ping Fan Ke, Mike K. P. So, and Kar Yan Tam<br>
 <i>Production and Operations Management.</i> 2023.<br><br>
-<strong>[Github]</strong> <a href="https://github.com/polyu-mm-boris-ng/Adversarial-Domain-Adaptation-for-Fake-Content">Adversarial Domain Adaptation for Fake Content</a></p>
+<strong>Github Code:</strong> <a href="https://github.com/polyu-mm-boris-ng/Adversarial-Domain-Adaptation-for-Fake-Content">Adversarial Domain Adaptation for Fake Content</a></p>
 
 <h2 class="category">{{ page.years[3]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612">The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination</a><br>
@@ -40,7 +47,9 @@ Jiexin Zheng, <u>Ka Chung Ng</u>, Rong Zheng, and Kar Yan Tam<br>
 <i>Journal of Management Information Systems.</i> 2021. <br><br>
 <strong>Media Coverage: </strong>
 <a href="https://dbr.donga.com/article/view/1202/article_no/10562/ac/magazine">Dong-A Business Review</a> (Sep 2022, Issue 1, No. 352),
-<a href="https://www.donga.com/news/Economy/article/all/20220913/115435247/1">Dong-A ILBO</a> (Sep 14, 2022)</p>
+<a href="https://www.donga.com/news/Economy/article/all/20220913/115435247/1">Dong-A ILBO</a> (Sep 14, 2022)<br>
+
+<strong>Republished</strong> as a book chapter in Fake News on the Internet (ISBN 9781032561127)</p>
 <br>
 
 <p style="padding-left: 0.5em; text-indent: -0.5em;">•	<a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1962601">Protecting Against Threats to Information Security: An Attitudinal Ambivalence Perspective</a><br>

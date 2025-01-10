@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Yiming MA (Wells)
-description: Research Student Assistant, final year Master Student in Data Science and Analytics (PolyU)
+description: Former Research Student Assistant, Msc. PolyU -> Ph.D. Student HIT
 img: assets/img/yiming.jpg
 importance: 5
-category: Research Team
+category: Past Research Supervison
 ---
 
 I am a final year year Master Student in Data Science and Analytics at Department of Applied Mathematics, The Hong Kong Polytechnic University.<br>
