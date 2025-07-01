@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Assistant Professor | Presidential Young Scholar | Ph.D. (HKUST)
+subtitle: Assistant Professor | Ph.D. (HKUST)
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Boris Ka Chung Ng is an Assistant Professor and Presidential Young Scholar in the Department of Management and Marketing, Faculty of Business, at The Hong Kong Polytechnic University. He holds a PhD in Information Systems and a BSc in Risk Management and Business Intelligence from The Hong Kong University of Science and Technology.
+Dr. Boris Ka Chung Ng is an Assistant Professor in the Department of Management and Marketing, Faculty of Business, at The Hong Kong Polytechnic University. He holds a PhD in Information Systems and a BSc in Risk Management and Business Intelligence from The Hong Kong University of Science and Technology.
 
 Dr. Boris Ng’s research stands at the intersection of multidisciplinary fields and leverages advanced machine learning techniques to address critical societal challenges and generate business insights. His work contributes to the sustainable development of AI in business and society, focusing on two primary areas: (1) `FinTech & AI` and (2) `Computational Social Science`. His research offers both theoretical and practical implications for academia, institutions, and policymakers.
 

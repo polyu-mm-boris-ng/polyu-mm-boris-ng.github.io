@@ -24,7 +24,7 @@ horizontal: false
 
 <h2 class="category">{{ page.years[0]}}</h2>
 <p style="padding-left: 0.5em; text-indent: -0.5em;">• <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2301176">Human-AI Synergy in Survey Development: Implications from Large Language Models in Business and Research</a><br>
-Pingfan Ke, <u>Ka Chung Ng</u><br>
+Ping Fan Ke, <u>Ka Chung Ng</u><br>
 <i>ACM Transactions on Management Information Systems.</i> 2024.<br><br>
 <strong>Design Artefact: </strong> <a href="https://github.com/polyu-mm-boris-ng/WOLVES-Word-List-Vector-for-Sentiment">
 <u>B</u>ehavioral <u>R</u>esearch <u>ASS</u>istant (BRASS) Bot</a></p>
